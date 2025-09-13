@@ -6,9 +6,10 @@ Using:
 - Ollama AI model
 - Streamlit user interface
 
-DEMO: 
+**DEMO1:**
 ![test case 1 input](test_case1.1.jpeg)
 ![test case 1 output](test_case1.2.jpeg)
+**DEMO2:**
 ![test case 2 input](test_case2.1.jpeg)
 ![test case 2 output](test_case2.2.jpeg)
 
