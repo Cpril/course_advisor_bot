@@ -89,7 +89,7 @@ def search_courses(query: str):
     matches = []
     for course, (title, description) in course_descriptions.items():
         if query in title.lower() or query in description.lower():
-            matches.append((course, title)) # I deleted description for now
+            matches.append((course, title, description))
     return matches
 if TEST == True:
     print("Search results for 'programming':")
