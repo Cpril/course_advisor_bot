@@ -2,6 +2,10 @@
 
 Offer Personal Recommendation of Courses Based on Student Interests and Fall 2025 Course Catalog.
 
+Using:
+- Ollama AI model
+- Streamlit user interface
+
 DEMO: 
 ![test case 1 input](test_case1.1.jpeg)
 ![test case 1 output](test_case1.2.jpeg)
