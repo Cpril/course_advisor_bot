@@ -1,10 +1,10 @@
 # Course Advisor Bot
 
-Offer Personal Recommendation of Courses Based on Student Interests and Fall 2025 Course Catalog.
+This program offer Personal Recommendation of Courses Based on Student Interests and Fall 2025 Course Catalog.
 
 Using:
 - Ollama AI model
-- Streamlit user interface
+- Streamlit user interface 
 
 **DEMO1:**
 ![test case 1 input](test_case1.1.jpeg)
